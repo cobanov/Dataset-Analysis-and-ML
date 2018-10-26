@@ -1,8 +1,8 @@
 # Dataset-Analysis-and-ML
 
 In this work is about data analysis for breast cancer.  
-I used Breast Cancer Wisconsin(Diagnostic) Data Set from Kaggle.  
-I aimed to introduce Random Forest, SVC, Decision Tree also Artificial Neural Networks.  
+I used Breast Cancer Wisconsin(Diagnostic) Data Set from Kaggle,  
+and aimed to introduce Random Forest, SVC, Decision Tree also Artificial Neural Networks.  
 
 [link to data set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)  
 
