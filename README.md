@@ -37,7 +37,7 @@ seaborn
 ## Authors
 
 * **Mert Çobanoğlu** - [Cobanov](https://github.com/cobanov)
-* **Gıyasettin Özcan** 
+* **Gıyasettin Özcan** [ozcan74](https://github.com/ozcan74)
 
 ## License
 
